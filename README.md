@@ -1,5 +1,11 @@
 # FastApi-BackendApi + Mongodb..
+
+@Vivek kumar jha 
 Python-FastApi  Rest Api 
+
+pip install fastapi
+
+pip install "uvicorn[standard]"
 
 install pip pipenv
 activate enviroment
