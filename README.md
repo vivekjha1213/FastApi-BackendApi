@@ -1,15 +1,19 @@
 # FastApi-BackendApi + Mongodb..
 
-@Vivek kumar jha 
-Python-FastApi  Rest Api 
+
+author @Vivek kumar jha 
+Python-FastApi  Rest Api
+
+For mac os use Pip3.
 
 pip install fastapi
 
 pip install "uvicorn[standard]"
 
 install pip pipenv
-activate enviroment
-pipenv shell.
+activate Local environment
+
+pipenv shell
 ___________________________________________________________________________________________________________________________________________________________
 Required dependencies fastapi:
 
