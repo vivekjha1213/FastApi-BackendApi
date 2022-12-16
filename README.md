@@ -43,12 +43,13 @@ After hit on browser you will get this response
 you can also test via swagger Ui and PostMan.
 
 http://127.0.0.1:8000/docs
+/![Screenshot 2022-12-13 at 1 17 25 PM](https://user-images.githubusercontent.com/67068290/208139526-9aa142a1-abd5-43c9-8c1f-fe918b334a3b.png)
 
 Request Body 
 
 default
 GET
-/
+
 Read Root
 
 GET
@@ -71,6 +72,9 @@ PUT
 /api/todo/{title}/
 Put Todo
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+![Screenshot 2022-12-13 at 1 16 10 PM](https://user-images.githubusercontent.com/67068290/208139668-5b648c61-1a94-4312-abf0-e699b2150bf6.png)
+
+
 for Frontend Ui.
 
 npm install node
